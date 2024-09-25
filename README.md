@@ -40,6 +40,22 @@ BLOCKS_TO_CHECK=200000
 STAKEHOLDERS=comma_separated_stakeholder_addresses
 ```
 
+Example:
+
+```bash
+# Chiliz Mainnet RPC URL
+RPC_URL=https://rpc.ankr.com/chiliz
+
+# BAR token address
+BAR_TOKEN_ADDRESS=0xFD3C73b3B09D418841dd6Aff341b2d6e3abA433b
+
+# Number of blocks to check
+BLOCKS_TO_CHECK=200000
+
+# List of stakeholder addresses
+STAKEHOLDERS=0x16E352ea78FE927358C6B22D2C8F4A64013d483a,0x590F0d784b88801Eb2dd8a9817BC5aEdB46170d5,0x6C0Ba6d4eF5Ea5694C6Bf900A7048E0718078E51
+```
+
 ## Improvements
 
 ### Scalability
