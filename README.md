@@ -1,6 +1,6 @@
 # BAR Token Transfer Checker
 
-This Node.js script filters BAR token (ERC20) transfers involving specific stakeholders over the last X blocks on the Chiliz blockchain.
+This Node.js script filters BAR token transfers involving specific stakeholders over the last X blocks on the Chiliz blockchain.
 
 ## Pre-requisites
 
