@@ -26,12 +26,6 @@ npm install
 
 ## Running the nodeJS script
 
-To execute the script and fetch BAR token transfers involving stakeholders, run:
-
-```bash
-npm start
-```
-
 Ensure the .env file is correctly set up with the necessary variables:
 ```bash
 RPC_URL=your_rpc_url_here
@@ -55,6 +49,14 @@ BLOCKS_TO_CHECK=200000
 # List of stakeholder addresses
 STAKEHOLDERS=0x16E352ea78FE927358C6B22D2C8F4A64013d483a,0x590F0d784b88801Eb2dd8a9817BC5aEdB46170d5,0x6C0Ba6d4eF5Ea5694C6Bf900A7048E0718078E51
 ```
+
+To execute the script and fetch BAR token transfers involving stakeholders, run the following:
+
+```bash
+npm start
+```
+
+
 
 ## Improvements
 
